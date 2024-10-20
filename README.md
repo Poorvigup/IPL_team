@@ -25,8 +25,8 @@ Follow these steps to run the project:<br><br>
 
 **Prerequisites**<br>
 * Python 3.9 or above<br>
- Jupyter Notebook (optional, for interactive analysis)<br>
- Libraries: pandas, numpy, matplotlib<br>
+- Jupyter Notebook (optional, for interactive analysis)<br>
+- Libraries: pandas, numpy, matplotlib<br>
 
 <br>**Running the Project**<br>
 * Open the Jupyter Notebook in the notebooks/ folder to view the complete analysis.
