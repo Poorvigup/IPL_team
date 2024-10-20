@@ -11,11 +11,11 @@ Here’s how we’ll tackle the problem step-by-step:<br>
 - Load the IPL dataset into your programming environment (e.g., Python).<br>
 - Print the first few rows of the dataset to get a better understanding of its structure and content.<br>
 - Check the dimensions of the dataset to understand the number of rows (records) and columns (features).<br>
-- Identify the variables/columns in the dataset and learn their meanings (e.g., player names, match statistics, roles, etc.).<br><br>
+- Identify the variables/columns in the dataset and learn their meanings (e.g., player names, match statistics, roles, etc.).<br>
 **2. Exploratory Data Analysis (EDA) 🔍**<br>
 - **Summary statistics:** Generate summary statistics (mean, median, min, max, etc.) for key variables such as runs scored, wickets taken, etc.<br>
 - **Data visualization:** Use charts and graphs to visually analyze player performance and team dynamics.<br>
-- **Identify top performers:** Based on statistical analysis, identify top players in various categories (e.g., best batsmen, best bowlers, best all-rounders).<br><br>
+- **Identify top performers:** Based on statistical analysis, identify top players in various categories (e.g., best batsmen, best bowlers, best all-rounders).<br>
 **3. Player Recommendation 🏆**<br>
 - **Criteria selection:** Set performance metrics and thresholds to select the top players for each position (e.g., high strike rate for batsmen, low economy rate for bowlers).<br>
 - **Team formation:** Based on the analysis, recommend a balanced team with strong players across all positions.<br>
