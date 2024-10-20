@@ -24,24 +24,24 @@ Here’s how we’ll tackle the problem step-by-step:<br>
 Follow these steps to run the project:<br><br>
 
 **Prerequisites**<br>
-* Python 3.9 or above<br>
+- Python 3.9 or above<br>
 - Jupyter Notebook (optional, for interactive analysis)<br>
 - Libraries: pandas, numpy, matplotlib<br>
 
 <br>**Running the Project**<br>
-* Open the Jupyter Notebook in the notebooks/ folder to view the complete analysis.
-<br>* Alternatively, you can run the Python scripts in the src/ folder for specific tasks such as data loading, exploratory analysis, and player recommendations.
+- Open the Jupyter Notebook in the notebooks/ folder to view the complete analysis.
+<br>- Alternatively, you can run the Python scripts in the src/ folder for specific tasks such as data loading, exploratory analysis, and player recommendations.
 
 ## 📊 Results and Insights
 * **Top Batsmen:** Based on metrics like total runs, strike rate, and average.
-<br>* **Top Bowlers:** Based on wickets taken, economy rate, and bowling average.
-<br>* **All-rounders:** Players who perform well in both batting and bowling categories.
-<br>* **Final Recommended Team:** A balanced team that includes top players from each category to form the best possible team for IPL 2018.
+<br>- **Top Bowlers:** Based on wickets taken, economy rate, and bowling average.
+<br>- **All-rounders:** Players who perform well in both batting and bowling categories.
+<br>- **Final Recommended Team:** A balanced team that includes top players from each category to form the best possible team for IPL 2018.
 ## 🛠 Technologies Used
 * **Python:** Data loading, cleaning, and analysis.
-<br>* **Pandas:** Data manipulation and analysis.
-<br>* **Matplotlib:** Data visualization.
-<br>* **Jupyter Notebook:** For interactive data exploration.
+<br>- **Pandas:** Data manipulation and analysis.
+<br>- **Matplotlib:** Data visualization.
+<br>- **Jupyter Notebook:** For interactive data exploration.
 ## 👥 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request if you want to improve the analysis or add new features.
 ## 
