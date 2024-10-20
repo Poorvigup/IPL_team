@@ -43,6 +43,12 @@ Follow these steps to run the project:<br><br>
 <br>- **Matplotlib:** Data visualization.
 <br>- **Jupyter Notebook:** For interactive data exploration.
 ## 👥 Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request if you want to improve the analysis or add new features.
+Contributions are welcome! Feel free to open an issue or submit a pull request if you want to improve the analysis or add new features.<br>
+## 📬 Contact
+If you have any questions or suggestions, feel free to reach out!<br><br>
+
+Poorvi Gupta<br>
+poorviguptacom@gmail.com<br>
+Linkedin: https://www.linkedin.com/in/poorvi-gupta-a817032a0<br>
 ## 
 Thank you for checking out this project! Let’s analyze and form the ultimate IPL team! 🏏🚀
